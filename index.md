@@ -9,3 +9,19 @@
 $ git add .
 Adding all File That Has been edited in Working Directory
 ```
+# <h3> Step to making Local Repository
+- [ ] Open your Terminal
+- [ ] Choose Which Directory that you will working with it
+- [x] to check your current path use this command
+      ```
+      pwd
+      ```
+- [x] After Knowing Which path that you were currently working use this command to make new path
+      ```
+      mkdir
+      ```
+- [x] When you done doing that use this command to Initialise your Path
+      ```
+      git init
+      ```
+ # now You were done to initialise your local Repository 
